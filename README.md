@@ -1,3 +1,8 @@
+# React Fitness App
+
+![image](https://user-images.githubusercontent.com/62888962/181916599-bd1d9eaa-44a2-434c-adda-8587a00aa751.png)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
