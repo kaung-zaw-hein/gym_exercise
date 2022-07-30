@@ -8,5 +8,5 @@ export { default as BodyPart } from "./BodyPart";
 export { default as Detail } from "./Detail";
 export { default as ExerciseCard } from "./ExerciseCard";
 export { default as ExerciseVideos } from "./ExerciseVideos";
-export { default as SearcLoaderhExercise } from "./Loader";
+export { default as Loader } from "./Loader";
 export { default as SimilarExercises } from "./SimilarExercises";
